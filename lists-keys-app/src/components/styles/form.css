@@ -1,0 +1,6 @@
+input[type='checkbox'] {
+    display: inline;
+    width: auto;
+    height: 15px;
+    margin-left: 5px;
+}
